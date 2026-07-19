@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- 4호점 대문 주소 (초기 세팅용) -->
   <url>
-    <loc>https://shop4.torinori-shop.com/</loc>
-    <priority>1.00</priority>
+    <loc>https://shop2.torinori-shop.com/</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://shop2.torinori-shop.com/products/9320256369_2026-07-19_0.html</loc>
+    <lastmod>2026-07-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
